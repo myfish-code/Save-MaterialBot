@@ -14,4 +14,7 @@
   + python
   + telebot 
   + SQLite3
-  
+## installation
+```
+pip install telebot
+```
