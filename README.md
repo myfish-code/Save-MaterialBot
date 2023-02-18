@@ -13,5 +13,5 @@
 ## Requirements
   + python
   + telebot 
-  + sqlite3
+  + SQLite3
   
