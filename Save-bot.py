@@ -12,7 +12,7 @@ n = c.execute("SELECT * FROM articles").fetchall()
 print(n)
 
 
-bot = telebot.TeleBot('6096717680:AAHJ_P3-uLp1l47ddjM_tRW-hTV_q-5zDEU')
+bot = telebot.TeleBot('your Telegram bot Api')
 
 k = -1
 subject = ""
